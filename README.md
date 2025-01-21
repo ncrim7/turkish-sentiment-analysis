@@ -118,16 +118,6 @@ Bu Python dosyası, projenin tüm bileşenlerini birleştirerek duygu analizi s�
 
 ## Performans Analizi 📈
 
-#### Kullanılan Teknolojiler:
-
-1. 🐍 **Python**: Projede Python, verilerin işlenmesi, metinlerin analiz edilmesi ve sonuçların hesaplanması için ana programlama dili olarak kullanılmaktadır.
-2. 📊 **Pandas**: Excel dosyalarından veri okuma, veriyi düzenleme ve analiz sonuçlarını raporlama işlemlerinde kullanılmıştır.
-3. 🛠️ **NLTK**: Metinleri kelimelere ayırmak (tokenization) ve Türkçe stopwords (anlamsız kelimeler) listesini almak için kullanılmıştır.
-4. 🔤 **Zemberek**: Metinlerin dilbilgisel analizini yapmak, kelimelerin köklerine indirgenmesi (stemming) ve anlamlı kelimeleri ayıklamak için kullanılmıştır.
-5. 🔗 **JPype**: Python ile Java tabanlı kütüphaneler arasında köprü kuran bir kütüphane olup Zemberek ile entegrasyon sağlamak için kullanılmıştır.
-6. 🗂️ **XML ve ElementTree**: Lexicon (kelime listesi) dosyasını XML formatında okuyup işlemek için kullanılmıştır.: Lexicon (kelime listesi) dosyasını XML formatında okuyup işlemek için kullanılmıştır.
-
-
 ### 📊 Metrikler
 
 Projenin farklı aşamalarında duygu analizi için yapılan testlerin sonuçları aşağıda listelenmiştir. Doğruluk oranı, kesinlik, anma ve F1 skoru, iyileştirme adımları ve modelin gelişimi göz önünde bulundurularak analiz edilmiştir.
@@ -173,6 +163,16 @@ graph TD
     H --> I[Sonuçlar ve Metrik Hesaplama]
     I --> J[Bitiş]
 ```
+---
+#### Kullanılan Teknolojiler:
+
+1. 🐍 **Python**: Projede Python, verilerin işlenmesi, metinlerin analiz edilmesi ve sonuçların hesaplanması için ana programlama dili olarak kullanılmaktadır.
+2. 📊 **Pandas**: Excel dosyalarından veri okuma, veriyi düzenleme ve analiz sonuçlarını raporlama işlemlerinde kullanılmıştır.
+3. 🛠️ **NLTK**: Metinleri kelimelere ayırmak (tokenization) ve Türkçe stopwords (anlamsız kelimeler) listesini almak için kullanılmıştır.
+4. 🔤 **Zemberek**: Metinlerin dilbilgisel analizini yapmak, kelimelerin köklerine indirgenmesi (stemming) ve anlamlı kelimeleri ayıklamak için kullanılmıştır.
+5. 🔗 **JPype**: Python ile Java tabanlı kütüphaneler arasında köprü kuran bir kütüphane olup Zemberek ile entegrasyon sağlamak için kullanılmıştır.
+6. 🗂️ **XML ve ElementTree**: Lexicon (kelime listesi) dosyasını XML formatında okuyup işlemek için kullanılmıştır.: Lexicon (kelime listesi) dosyasını XML formatında okuyup işlemek için kullanılmıştır.
+---
 
 ## Nasıl Çalıştırılır? 🚀
 
