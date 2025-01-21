@@ -208,3 +208,5 @@ graph TD
 ---
 
 Bu projeyle ilgili sorularınız veya önerileriniz varsa lütfen benimle iletişime geçmekten çekinmeyin! 😊
+---
+➤ Açıklama Videosu : [`Sentiment Analysis`](https://youtu.be/Apg5fR_7C1A)
