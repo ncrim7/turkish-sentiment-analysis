@@ -146,6 +146,10 @@ Test sonuçları, modelin gelişimini net bir şekilde göstermektedir. Her bir 
 
 Gelecekte, daha geniş veri kümeleri ve ileri seviye modellerin kullanılması ile doğruluk oranının daha da artırılması hedeflenmektedir.
 
+<img src="https://github.com/ncrim7/turkish-sentiment-analysis/blob/main/img/test2conf.png" width="400px" height="auto">. 
+<img src="https://github.com/ncrim7/turkish-sentiment-analysis/blob/main/img/test2graph.PNG" width="400px" height="auto">. 
+<img src="https://github.com/ncrim7/turkish-sentiment-analysis/blob/main/img/FlowChart.png" width="800px" height="auto">. 
+
 ---
 #### 📜 Akış Diyagramı:
 
